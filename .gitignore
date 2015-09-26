@@ -2,6 +2,13 @@
 Thumbs.db
 ehthumbs.db
 
+# Ignored Folders
+Builds/
+Internet/
+ProjectSettings/
+Temp/
+
+
 # Folder config file
 Desktop.ini
 
